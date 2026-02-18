@@ -17,6 +17,6 @@ export default defineConfig(({ mode }) => {
         "@": path.resolve(__dirname, "./src"),
       },
     },
-    base: isProd ? '/WeatherApp/' : '/',
+    base: isProd ? '/typing-speed-site/' : '/',
   }
 })
