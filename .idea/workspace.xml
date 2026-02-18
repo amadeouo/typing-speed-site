@@ -5,83 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5589aecd-ab73-40d9-b1aa-70e14ccecd15" name="Changes" comment="init: init proj">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AGENTS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLAUDE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README-template.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/desktop-not-started.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/desktop-results-first-test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/desktop-results-new-personal-best.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/desktop-results.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/desktop-started.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/focus-states.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/hover-states.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/mobile-dropdown.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/mobile-not-started.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/mobile-results-first-test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/mobile-results-new-personal-best.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/mobile-results.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design/mobile-started.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/components.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/eslint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/public/vite.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/App.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/Sora-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/static/Sora-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/static/Sora-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/static/Sora-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/static/Sora-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/static/Sora-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/fonts/Sora/static/Sora-SemiBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/icon-completed.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/icon-down-arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/icon-new-pb.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/icon-personal-best.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/icon-restart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/logo-large.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/logo-small.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/pattern-confetti.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/pattern-star-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/images/pattern-star-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/assets/react.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/context/LocalStorageProvider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/context/local-storage-context.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Settings.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Timer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/TypingArea.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/dropdown-menu.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/label.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/ui/radio-group.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/layouts/header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/pages/main-page/MainPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/counters.store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/timer.store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/store/typing.store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/types/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/utils/hooks/useLocalStorageContext.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/utils/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.node.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/vite.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preview.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style-guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,8 +91,17 @@
       <updated>1771348873682</updated>
       <workItem from="1771348874740" duration="18802000" />
       <workItem from="1771409081161" duration="7301000" />
-      <workItem from="1771418581618" duration="3982000" />
+      <workItem from="1771418581618" duration="4236000" />
     </task>
+    <task id="LOCAL-00001" summary="init: init proj">
+      <option name="closed" value="true" />
+      <created>1771438451298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771438451298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
